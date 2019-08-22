@@ -68,7 +68,7 @@
 						<div class="row">
 							<div class="col-md-2">
 								<a target="_blank" class="inner-link" href="../index.php"><img alt="ZINE" class="logo logo-light" src="../img/ZINE/zine1.png">
-								<img alt="ZINE" class="logo logo-dark" src="img/ZINE/zine1.png"></a>
+								<img alt="ZINE" class="logo logo-dark" src="../img/ZINE/zine1.png"></a>
 							</div>
 
 							<div class="col-md-10 text-right">
