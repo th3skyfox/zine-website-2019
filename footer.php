@@ -10,7 +10,7 @@
                             	      <li><a href="https://facebook.com/ZINE.ROBOTICS"><i class="fa fa-facebook"></i></a> </li> 
                                       <li><a href=""><i class="fa fa-android"></i></a> </li>   
 	                                 <li> <a href="https://www.instagram.com/zine.robotics/"><i class="fa fa-instagram"></i></a> </li>
-                                    <li> <a href="https://www.instagram.com/zine.robotics/"><i class="fa fa-youtube"></i></a> </li>
+                                    <li> <a href="https://www.youtube.com/channel/UC92-Bhcl13KcI0UUU2ZrN1Q/featured"><i class="fa fa-youtube"></i></a> </li>
                                 </ul>
                         </div>
 			</section>

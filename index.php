@@ -106,13 +106,13 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-2">
-								<a  target="_blank" class="inner-link" href="index.php"><img alt="ZINE" class="logo logo-light" src="img/ZINE/zine1.png">
+								<a  target="_self" class="inner-link" href="index.php"><img alt="ZINE" class="logo logo-light" src="img/ZINE/zine1.png">
 								<img alt="ZINE" class="logo logo-dark" src="img/ZINE/zine1.png"></a>
 							</div>
 
 							<div class="col-md-10 text-right">
 								<ul class="menu">
-                                    <li><a target="_blank" href="index.php">Home</a></li>
+                                    <li><a target="_self" href="index.php">Home</a></li>
 									<li><a target="_blank" href="team.php">Team</a></li>
 									<li><a target="_blank" href="project/Projects.php">Projects</a></li>
 									<li><a target="_blank" href="achievements.php">Achievements</a></li>

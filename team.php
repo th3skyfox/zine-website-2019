@@ -58,20 +58,20 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-2">
-								<a  target="_blank" class="inner-link" href="index.php"><img alt="ZINE" class="logo logo-light" src="img/ZINE/zine1.png">
+								<a  target="_self" class="inner-link" href="index.php"><img alt="ZINE" class="logo logo-light" src="img/ZINE/zine1.png">
 								<img alt="ZINE" class="logo logo-dark" src="img/ZINE/zine1.png"></a>
 							</div>
 
 							<div class="col-md-10 text-right">
 								<ul class="menu">
-									<li><a target="_blank" href="team.php">Team</a></li>
-									<li><a target="_blank" href="project/Projects.php">Projects</a></li>
-									<li><a target="_blank" href="achievements.php">Achievements</a></li>
-                                    <li><a target="_blank" href="about.php">About</a></li>
-                                    <li><a target="_blank" href="#contact">Contact</a></li>	
-									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
+									<li><a target="_self" href="team.php">Team</a></li>
+									<li><a target="_self" href="project/Projects.php">Projects</a></li>
+									<li><a target="_self" href="achievements.php">Achievements</a></li>
+                                    <li><a target="_self" href="about.php">About</a></li>
+                                    <li><a target="_self" href="#contact">Contact</a></li>	
 									<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.facebook.com/ROBOTICS.ZINE"><i class="icon social_facebook"></i></a></li>
       								<li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.instagram.com/zine.robotics"><i class="icon social_instagram"></i></a></li>
+                                    <li class="social-link hidden-md hidden-sm hidden-xs"><a target="_blank" href="https://www.linkedin.com/company/de-zine-limited"><i class="icon social_linkedin"></i></a></li>
 								    <div class="mobile-menu-toggle"><i class="icon icon_menu"></i></div>
                                 </ul>
 							</div>
